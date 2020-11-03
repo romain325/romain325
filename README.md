@@ -4,7 +4,7 @@
 
 - 🌌 I love to learn things **(Science, New Languages/Frameworks, A Lot of Things)**
 
-- 🌱 I’m currently learning **ML, Maths, NodeJS**
+- 🌱 I’m currently learning **ML, Maths, DataStructures & Algorithmics**
 
 - 👨‍💻 Someof my projects are available at [https://romind.herokuapp.com/](https://romind.herokuapp.com/)
 
