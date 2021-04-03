@@ -2,6 +2,9 @@
 
 ![romain325](https://socialify.git.ci/romain325/romain325/image?description=1&descriptionEditable=A%20passionate%20developer%2Fmusician%2Fstudent&font=Source%20Code%20Pro&language=1&logo=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F60626776%3Fs%3D400%26u%3Df158c4892b78950d4cef10e7be6ad5ac818c84a4%26v%3D4&owner=1&pattern=Formal%20Invitation&theme=Dark)
 
+> **I'M SEEKING FOR AN INTERSHIP!!**
+> Contact me if you're interested or if you have any contact!
+
 - 🌌 I love to learn things **(Science, New Languages/Frameworks, A Lot of Things)**
 
 - 🌱 I’m currently learning **ML, Maths, DataStructures & Algorithmics, Security**
