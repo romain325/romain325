@@ -18,4 +18,5 @@
 
 <p align="center">
 <a href="https://stackoverflow.com/users/rom1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="rom1" height="30" width="30" /></a>
+<a href="https://tryhackme.com/p/romain325" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/romain325.png" alt="TryHackMe" /></a>
 </p>
