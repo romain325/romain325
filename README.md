@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **ML, Maths, DataStructures & Algorithmics, Security**
 
-- 👨‍💻 Someof my projects are available at [https://romind.herokuapp.com/](https://romind.herokuapp.com/)
+- 👨‍💻 Someof my projects are available at [https://romain325.github.io/kelkchoz_website/](https://romain325.github.io/kelkchoz_website/)
 
-- 📝 I regularly write articles on [https://romind.herokuapp.com/](https://romind.herokuapp.com/)
+- 📝 I regularly write articles on [https://romain325.github.io/kelkchoz_website/](https://romain325.github.io/kelkchoz_website/)
 
 - 💬 Ask me about **Anything !**
 
